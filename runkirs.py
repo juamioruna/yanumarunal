@@ -1,5 +1,5 @@
 import math,sys
 if __name__=='__main__':
-  y=math.pi*math.log2(59)
-  b=str(y)+str(math.tan(len('jiyido')))
-  print(b+'dubeke')
+  y=math.pi*math.log2(92)
+  b=str(y)+str(math.tan(len('rugivado')))
+  print(b+'layekekaf')
